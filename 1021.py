@@ -1,0 +1,17 @@
+n = float(input())
+
+
+print("NOTAS:")
+print("%d nota(s) de R$ 100.00" % n)
+print("%d nota(s) de R$ 50.00" % n)
+print("%d nota(s) de R$ 20.00" % n)
+print("%d nota(s) de R$ 10.00" % n)
+print("%d nota(s) de R$ 5.00" % n)
+print("%d nota(s) de R$ 2.00" % n)
+print("MOEDAS:")
+print("%d moeda(s) de R$ 1.00" % n)
+print("%d moeda(s) de R$ 0.50" % n)
+print("%d moeda(s) de R$ 0.25" % n)
+print("%d moeda(s) de R$ 0.10" % n)
+print("%d moeda(s) de R$ 0.05" % n)
+print("%d moeda(s) de R$ 0.01" % n)
